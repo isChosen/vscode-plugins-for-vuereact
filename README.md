@@ -31,6 +31,8 @@ npm Intellisense
 
 Path Intellisense
 
+Px2vw
+
 React Native Tools
 
 React-Native/React/Redux snippets
