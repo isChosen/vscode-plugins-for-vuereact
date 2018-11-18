@@ -1,5 +1,4 @@
 # vscode-plugins
-vscode-frequent-plugins
 
 Auto Close Tag
 
@@ -25,19 +24,33 @@ ESLint
 
 filesize
 
+GitLens-Git supercharged
+
+HTML CSS Support
+
+HTML Snippets
+
 Live Server
+
+Markdown Preview Enhanced
 
 npm Intellisense
 
 Path Intellisense
 
+Prettier-Code formatter
+
 Px2vw
 
 React Native Tools
 
+React Redux ES6 Snippets
+
 React-Native/React/Redux snippets
 
-React new code snippets
+Reactjs code snippets
+
+REST Client
 
 TODO Highlight
 
