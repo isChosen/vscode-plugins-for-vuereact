@@ -30,6 +30,8 @@ HTML CSS Support
 
 HTML Snippets
 
+Import Cost
+
 Live Server
 
 Markdown Preview Enhanced
