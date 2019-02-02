@@ -36,6 +36,8 @@ Live Server
 
 Markdown Preview Enhanced
 
+Material Icon Theme
+
 npm Intellisense
 
 Path Intellisense
@@ -46,10 +48,6 @@ Px2vw
 
 React Native Tools
 
-React Redux ES6 Snippets
-
-React-Native/React/Redux snippets
-
 Reactjs code snippets
 
 REST Client
@@ -57,8 +55,6 @@ REST Client
 TODO Highlight
 
 TortoiseSVN
-
-Typescript React code snippets
 
 vscode-fileheader
 
