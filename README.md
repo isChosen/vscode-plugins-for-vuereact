@@ -46,15 +46,12 @@ Prettier-Code formatter
 
 Px2vw
 
-React Native Tools
-
 Reactjs code snippets
-
-REST Client
 
 TODO Highlight
 
 TortoiseSVN
 
 vscode-fileheader
+
 
