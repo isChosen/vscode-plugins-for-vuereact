@@ -58,5 +58,3 @@ TortoiseSVN
 
 vscode-fileheader
 
-vscode-icons
-
