@@ -52,6 +52,8 @@ Material Icon Theme
 
 Minify
 
+npm
+
 npm Intellisense
 
 Path Intellisense
@@ -67,6 +69,8 @@ Quokka.js
 Reactjs code snippets
 
 TODO Highlight
+
+Todo Tree
 
 TortoiseSVN
 
