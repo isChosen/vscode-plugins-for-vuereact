@@ -22,7 +22,7 @@ Css Peek
 
 cssrem
 
-Dainty-Panda Theme(1,2,3 - 3)
+Dainty-Panda Theme(推荐chroma2,lightness3/chroma3,lightness1)
 
 Darcula Theme
 
