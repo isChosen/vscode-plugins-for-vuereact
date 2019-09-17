@@ -26,6 +26,10 @@ Dainty-Panda Theme(推荐chroma2,lightness3/chroma3,lightness1)
 
 Darcula Theme
 
+Tomorrow and Tomorrow Night Theme Kit -> Tomorrow_Night_Eighties
+
+Beautiful UI -> Zenburn
+
 Document This
 
 ES7 React/Redux/GraphQL..
