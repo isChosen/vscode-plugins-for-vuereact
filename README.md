@@ -24,7 +24,7 @@ cssrem
 
 Dainty-Panda Theme(推荐chroma2,lightness3/chroma3,lightness1)
 
-Darcula Theme
+Darcula Theme(强烈推荐)
 
 Tomorrow and Tomorrow Night Theme Kit -> Tomorrow_Night_Eighties
 
@@ -32,11 +32,15 @@ Beautiful UI -> Zenburn
 
 Document This
 
+EJS language support
+
 ES7 React/Redux/GraphQL..
 
 ESLint
 
 filesize
+
+Git History
 
 GitLens-Git supercharged
 
@@ -51,6 +55,16 @@ Icon Fonts
 Import Cost
 
 IntelliSense for CSS class names in HTML
+
+koroFileHeader, 配置如下：
+"fileheader.customMade": {
+    "Author": "Chosen",
+    "Email": "isChosen@163.com",
+    "Date": "Do not edit",
+    "LastEditors": "Chosen",
+    "LastEditTime": "Do not edit",
+    "Description": ""
+}
 
 Live Server
 
@@ -76,6 +90,8 @@ Quokka.js
 
 Reactjs code snippets
 
+stylelint
+
 TODO Highlight
 
 Todo Tree
@@ -83,7 +99,5 @@ Todo Tree
 TortoiseSVN
 
 Visual Studio IntelliCode
-
-vscode-fileheader
 
 
