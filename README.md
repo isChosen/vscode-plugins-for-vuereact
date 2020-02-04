@@ -68,8 +68,6 @@ koroFileHeader, 配置如下：
 
 Live Server
 
-Markdown Preview Enhanced
-
 Material Icon Theme
 
 Minify
@@ -95,8 +93,6 @@ stylelint
 TODO Highlight
 
 Todo Tree
-
-TortoiseSVN
 
 Visual Studio IntelliCode
 
