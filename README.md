@@ -57,6 +57,9 @@ Import Cost
 IntelliSense for CSS class names in HTML
 
 koroFileHeader, 配置如下：
+"fileheader.con": {
+    "autoAdd": false // 手动添加
+}
 "fileheader.customMade": {
     "Author": "Chosen",
     "Email": "isChosen@163.com",
