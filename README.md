@@ -58,7 +58,9 @@ IntelliSense for CSS class names in HTML
 
 koroFileHeader, 配置如下：
 "fileheader.con": {
-    "autoAdd": false // 手动添加
+    "autoAdd": false, // 手动添加
+    "prohibitAutoAdd": ["json", "md"], // 禁止.json .md文件，自动添加头部注释
+    "createHeader": false // 新建文件自动添加
 }
 "fileheader.customMade": {
     "Author": "Chosen",
