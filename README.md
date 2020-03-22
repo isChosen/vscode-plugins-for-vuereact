@@ -99,6 +99,13 @@ TODO Highlight
 
 Todo Tree
 
+Vetur
+
 Visual Studio IntelliCode
 
+Vue 2 Snippets
+
+Vue Peek
+
+Vue VSCode Snippets
 
