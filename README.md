@@ -24,7 +24,9 @@ cssrem
 
 Dainty-Panda Theme(推荐chroma2,lightness3/chroma3,lightness1)
 
-Darcula Theme(强烈推荐)
+Darcula Theme(推荐)
+
+One Monokai Theme
 
 Tomorrow and Tomorrow Night Theme Kit -> Tomorrow_Night_Eighties
 
